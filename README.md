@@ -25,3 +25,10 @@ Sistema de cadastro de filmes, criado pelo Grupo 6 para o Desafio 2.
 
 ### cadastro-filme_quebrado.por
 Sistema de cadastro de filmes, com o códido "quebrado" para que outro Grupo fizesse a correção.
+
+## DESAFIO - TALKSHOW VAI NA WEB
+### index.html
+Página para jogar o game.
+
+### Talk_Show.sb3
+Arquvivo da plataforma Scratch.
